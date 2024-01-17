@@ -1,2 +1,2 @@
 - 👋 Hi, I’m NOYMANN
-- 🌱 I’m currently learning Python
+  
